@@ -19,7 +19,7 @@ Physics PhD and Chemistry MSc with extensive background in computational methods
 ## 🎯 Featured Projects
 - 🔗 **[Project Name 1](https://github.com/mtvz42/Prediction-of-rain-in-Australia-with-ML)** - I analysed the Australian rain dataset and built various ML algorithms to predict the probability of rain the next day.
 - 🔗 **[Project Name 2](https://github.com/mtvz42/Breast-Cancer-Prediction)** - The goal of this notebook is to build several Machine Learning algorithms to predict whether a breast tumour is benign or malignant.
-- 🔗 **[Project Name 3]([link-to-project](https://github.com/mtvz42/SpaceX-Falcon9-landing-prediction))** - This project aims to predict whether the SpaceX Falcon 9 first stage will land successfully.
+- 🔗 **[Project Name 3](https://github.com/mtvz42/SpaceX-Falcon9-landing-prediction)** - This project aims to predict whether the SpaceX Falcon 9 first stage will land successfully.
 
 ## 📫 How to reach me
 - 💼 LinkedIn: [Matteo Vezzelli](https://www.linkedin.com/in/matteovezzelli/)
