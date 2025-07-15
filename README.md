@@ -17,8 +17,8 @@ Physics PhD and Chemistry MSc with extensive background in computational methods
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtvz42&layout=compact&theme=radical)
 
 ## 🎯 Featured Projects
-- 🔗 **[Prediction of rain in Australia](https://github.com/mtvz42/Prediction-of-rain-in-Australia-with-ML)** - I analysed the Australian rain dataset and built various ML algorithms to predict the probability of rain the next day.
-- 🔗 **[Breast Cancer Prediction](https://github.com/mtvz42/Breast-Cancer-Prediction)** - The goal of this notebook is to build several Machine Learning algorithms to predict whether a breast tumour is benign or malignant.
+- 🔗 **[Prediction of rain in Australia](https://github.com/mtvz42/Prediction-of-rain-in-Australia-with-ML)** - This project aims to build several ML algorithms to predict the probability of rain the next day in Australia.
+- 🔗 **[Breast Cancer Prediction](https://github.com/mtvz42/Breast-Cancer-Prediction)** - This project aims to build several ML algorithms to predict whether a breast tumour is benign or malignant.
 - 🔗 **[SpaceX Falcon 9 first stage landing prediction](https://github.com/mtvz42/SpaceX-Falcon9-landing-prediction)** - This project aims to predict whether the SpaceX Falcon 9 first stage will land successfully.
 
 ## 📫 How to reach me
