@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 🚀 About Me
-Physics PhD and Chemistry MSc with extensive background in computational methods for Materials Science. 
+Physics PhD and Chemistry MSc with extensive background in computational methods for Materials Science. \
 Currently working as a Data Scientist specializing in **Machine Learning** and **Gen AI** based on LLMs, RAG, and AI Agents.
 
 ## 🛠️ Technologies & Tools
