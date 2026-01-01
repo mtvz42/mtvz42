@@ -12,11 +12,6 @@ Currently **Data Scientist** specializing in **GenAI** and automation systems.
 ![LLM](https://img.shields.io/badge/-Large%20Language%20Models-000000?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtvz42&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtvz42&layout=compact&theme=radical)
-
 ## 🎯 Featured Projects
 - 🔗 **[Prediction of rain in Australia](https://github.com/mtvz42/Prediction-of-rain-in-Australia-with-ML)** - This project aims to build several ML algorithms to predict the probability of rain the next day in Australia.
 - 🔗 **[Breast Cancer Prediction](https://github.com/mtvz42/Breast-Cancer-Prediction)** - This project aims to build several ML algorithms to predict whether a breast tumour is benign or malignant.
