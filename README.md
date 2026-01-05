@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 🚀 About Me
-**Physics PhD** and **Chemistry MSc** with background in computational methods for **Materials Science**. \
+**Physics PhD** and **Chemistry MS** with background in computational methods for **Materials Science**. \
 Currently **Data Scientist** specializing in **GenAI** and automation systems.
 
 ## 🛠️ Technologies & Tools
