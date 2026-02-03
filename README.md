@@ -16,6 +16,7 @@ Currently **Data Scientist** specializing in **GenAI** and automation systems.
 - 🔗 **[Prediction of rain in Australia](https://github.com/mtvz42/Prediction-of-rain-in-Australia-with-ML)** - This project aims to build several ML algorithms to predict the probability of rain the next day in Australia.
 - 🔗 **[Breast Cancer Prediction](https://github.com/mtvz42/Breast-Cancer-Prediction)** - This project aims to build several ML algorithms to predict whether a breast tumour is benign or malignant.
 - 🔗 **[SpaceX Falcon 9 first stage landing prediction](https://github.com/mtvz42/SpaceX-Falcon9-landing-prediction)** - This project aims to predict whether the SpaceX Falcon 9 first stage will land successfully.
+- 🔗 **[Natural Images Classification](https://github.com/mtvz42/Natural-Image-Classification)** - This project implements Deep Learning models to classify natural images into several categories.
 
 ## 📫 How to reach me
 - 💼 LinkedIn: [Matteo Vezzelli](https://www.linkedin.com/in/matteovezzelli/)
