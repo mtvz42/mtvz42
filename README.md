@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 🚀 About Me
-Postdoctoral Researcher with a Ph.D. in Physics and an M.Sc. in Chemistry. My background combines computational materials science, atomistic simulations, tribology, mechanochemistry, and data science. I am currently developing and applying machine learning and deep learning methods for atomistic simulations, with a focus on machine-learned interatomic potentials, molecular dynamics, and AI-driven approaches for materials research.
+Postdoctoral Researcher with a Ph.D. in Physics and an M.Sc. in Chemistry. My background combines computational materials science, atomistic simulations, tribology, mechanochemistry, and data science. I am currently developing and applying machine learning methods for atomistic simulations, with a focus on machine-learned interatomic potentials, molecular dynamics, and data-driven approaches for materials research.
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
