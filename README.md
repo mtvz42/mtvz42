@@ -4,11 +4,18 @@
 Postdoctoral Researcher with a Ph.D. in Physics and an M.Sc. in Chemistry. My background combines computational materials science, atomistic simulations, tribology, mechanochemistry, and data science. I am currently developing and applying machine learning methods for atomistic simulations, with a focus on machine-learned interatomic potentials, molecular dynamics, and data-driven approaches for materials research.
 
 ## 🛠️ Technologies & Tools
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Scientific Computing](https://img.shields.io/badge/-Scientific%20Computing-4B8BBE?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-9C27B0?style=flat-square&logo=artificial-intelligence&logoColor=white)
-![LLM](https://img.shields.io/badge/-Large%20Language%20Models-000000?style=flat-square&logo=openai&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+![ASE](https://img.shields.io/badge/-ASE-2E8B57?style=flat-square)
+![Molecular Dynamics](https://img.shields.io/badge/-Molecular%20Dynamics-6A5ACD?style=flat-square)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🎯 Featured Projects
